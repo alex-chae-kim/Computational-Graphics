@@ -1,5 +1,5 @@
 // Based on templates from learnopengl.com
-// Authors: Matthew Lozito
+// Authors: Matthew Lozito, Alex Kim
 #include <GL/glew.h>
 #define GLFW_INCLUDE_NONE
 #include <GLFW/glfw3.h>
